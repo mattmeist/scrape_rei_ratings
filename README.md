@@ -13,6 +13,7 @@ This could probably be in Python, but I'm an R guy, so it's there.
 The code is borrowed from Tony Cookson (https://www.r-bloggers.com/2011/04/merging-multiple-data-files-into-one-data-frame/)
 
 ## Script C (C_Merge_Weather_Data.ipynb):
+Note: You're going to have to get the weather data from NCEI itself, or my OSF repo: https://osf.io/639eb/
 Here we are, back to jupyter notebooks...
 This code might not be useful for everyone, as you may not care about weather. 
 However, it's actually not a trivial thing to do, so I wanted to make the code available for finding the closest set of coordinates to another.
